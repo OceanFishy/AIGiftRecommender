@@ -1,0 +1,25 @@
+# AI Gift Recommendation App Development Plan
+
+- [X] Confirm user intent and requirements for the app.
+- [X] Review the uploaded instruction file.
+- [X] Determine the platform (Android) and app type (native mobile app).
+- [X] Systematically identify all core features and technical requirements from the instruction file.
+- [X] Clarify any open questions with the user regarding the app's features or requirements.
+- [X] Select the appropriate technology stack (e.g., Kotlin/Java, Android SDK, Jetpack Compose/XML for UI) and overall architecture for the Android app.
+- [X] Design the app's structure, including main components, modules, and user flow diagrams.
+- [X] Outline necessary Android permissions (Contacts, Notifications, Internet) and data handling measures for privacy and security.
+- [X] Implement core functionality:
+    - [X] Contact access (birthdays, notes).
+    - [X] Holiday data management.
+    - [X] Basic UI for displaying contacts, events, and gift ideas.
+- [X] Integrate ChatGPT API for gift recommendations:
+    - [ ] Secure API key management. (Initial handling in place, full solution with Settings screen)
+    - [X] Prompt construction logic.
+    - [X] Parsing API responses.
+- [X] Implement shopping link generation/retrieval strategy.
+- [X] Implement the notification system (2-week advance reminders).
+- [X] Implement user settings (holiday preferences, manual input for contacts, API Key management).
+- [ ] Thoroughly test all app functionalities, including API integration, permissions, and notifications.
+- [ ] Validate that the app meets all requirements specified in the instruction file.
+- [ ] Prepare the app for deployment (e.g., build APK/AAB, create documentation if needed).
+- [ ] Report completion and provide the user with the build files and any relevant information.
